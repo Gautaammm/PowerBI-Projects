@@ -1,2 +1,2 @@
 # PowerBI-Projects
-Data Visualisation using Microsoft PowerBI
+Data Visualisation using PowerBI
